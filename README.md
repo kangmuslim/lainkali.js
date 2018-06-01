@@ -1,0 +1,2 @@
+# lainkali.js
+lainkali
